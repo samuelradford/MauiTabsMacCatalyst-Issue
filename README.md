@@ -56,10 +56,12 @@ Replication steps:
 
 You will see that on the 'SingleContent' tab, you can see the content without any problem. But you will see on the 'MultipleContent' tab that some of the content is remove and/or hidden underneath the `<TabBar>`.
 
+The single content tab is perfect, horizontal line is shown and text displayed where it should be.
 <kbd>
 <img width="789" alt="Screenshot 2023-01-06 at 18 26 38" src="https://user-images.githubusercontent.com/19474685/211075502-48f92b57-e3df-4352-833d-a0c7cee8c5b3.png">
 </kbd>
 
+On the multiple tab however, the horizontal line has disappeared and the next is now underneath the `<TabBar>`
 <kbd>
 <img width="790" alt="Screenshot 2023-01-06 at 18 28 31" src="https://user-images.githubusercontent.com/19474685/211075467-f004cafb-37a1-4160-99b8-7de11078a832.png">
 </kbd>
